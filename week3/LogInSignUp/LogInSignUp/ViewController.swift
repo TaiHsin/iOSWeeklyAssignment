@@ -146,7 +146,7 @@ class ViewController: UIViewController {
         } catch {} //??
         
         if passwordText.text == checkText.text {
-            print("Sign up successfully, welcome to join!!")
+            print("Sign up successfully, welcome join!!")
         }
         
         // reset sign up textfield to empty.
